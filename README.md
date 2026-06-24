@@ -78,9 +78,11 @@ http:
 - [x] DNS A record created: `streamingmeulaboh.com → 43.128.81.13`
 - [x] DNS cleanup: removed old A and AAAA records pointing to previous host
 - [x] Initial project structure (README, .gitignore)
-- [ ] GitHub repo: `syahuri/streamingmeulaboh.com` — **BLOCKED** (gh token lacks `repo` scope)
-- [ ] Git init + push
-- [ ] Application code (awaiting PRD from Tuan)
+- [x] PRD received — `PRD.md` (live streaming for wisuda, pernikahan, seminar, event di Aceh Barat & Barat Selatan)
+- [x] Git initialized locally (branch: `main`, initial commit done)
+- [ ] GitHub repo: `syahuri/streamingmeulaboh.com` — **BLOCKED** (gh token lacks `repo` scope, see Notes)
+- [ ] Git push to GitHub — **BLOCKED** (repo doesn't exist yet)
+- [ ] Application code (PRD available, ready for development)
 - [ ] Docker deployment
 - [ ] Traefik routing
 - [ ] SSL certificate (Let's Encrypt via Traefik)
